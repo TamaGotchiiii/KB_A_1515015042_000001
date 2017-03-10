@@ -1,0 +1,18 @@
+keyword
+1. implement dan end implement
+	keyword ini adalah satu-satunya keyword yang ada secara berpasangan. visual prolog akan menganggap kode yang berada diantara kedua keyword ini sebagai satu kelas yang sama
+2. open
+	keyword ini digunakan untuk memperluas cakupan dari sebuah kelas. biasanya digunakan sehabis keyword implement
+3. constants
+	keyword ini digunakan untuk menandai bagian dari kode yang menjelaskan beberapa nilai yang biasanya digunakan di kode program
+4. domains
+	keyword ini digunakan untuk menandai bagian pendeklarasian domain yang akan digunakan di kode
+5. class facts
+	keyword ini akan mendesign sebuah bagian, yang mendeklarasikan fact/fakta yang akan digunakan di kode program
+6. class predicates
+	keyword ini mengandung deklarasi dari predikat yang akan digunakan di bagian clauses kode
+7. clauses
+	dari semua bagian yang ada di visual prolog, bagian ini adalah salah satu yang paling mendekati dengan program prolog lama
+8. goal
+	bagian ini menjelaskan tentang hasil akhir yang kita inginkan
+		
