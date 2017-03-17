@@ -56,7 +56,7 @@ clauses
                         usia(john,10).
                         usia(sue,13).
 goal
-            cucu(X,Y);
-            adik(X);
-            kakek(X,Y);
+            %cucu(X,Y).
+            %adik(X).
+            %kakek(X,Y).
             ibu(X,Y).
