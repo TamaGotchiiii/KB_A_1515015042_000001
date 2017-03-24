@@ -1,0 +1,21 @@
+Analisis backtracking
+CH04E07
+berdasarkan goal karena merek sudah ditentukan maka yang dicari
+adalah warna berdasarkan rule yang telah ada
+
+karena model sudah diketahui corvette maka maserati dan porsche akan
+dieliminasi, tersisa Corvete,black,24000 dan corvette,red,26000
+
+kita coba dulu corvette,black,24000
+maka akan dicheck
+apakah warnanya sexy
+di fakta colors black adalah mean maka proses akan mundur satu langkah
+
+lalu memilih corvette,red,26000
+maka akan dicheck 
+apakah warnanya sexy
+di fakta colors red adalah sexy maka kita akan berlanjut ke syarat 
+selanjutnya
+
+Price lebih dari 25000, corvette red memiliki harga 26000
+maka goal akan mengeluarkan warna red 
